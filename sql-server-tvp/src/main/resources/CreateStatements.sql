@@ -1,0 +1,1 @@
+CREATE TYPE dbo.my_first_table_variable AS TABLE (id bigint, [name] varchar(255));
